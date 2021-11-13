@@ -43,7 +43,7 @@ app.get('/api/animals', (req,res) => {
     console.log(req.query);
     res.json(results);
 });
-
+//
 app.listen(3001, () => {
     console.log(`API servernow on port 3001!`);
 });
