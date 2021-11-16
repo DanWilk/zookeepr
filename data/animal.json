@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Leopard",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious"
+      ],
+      "id": "12"
     }
   ]
 }
